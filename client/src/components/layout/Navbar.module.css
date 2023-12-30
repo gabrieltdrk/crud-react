@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: #110e4a;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
